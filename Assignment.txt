@@ -81,16 +81,8 @@ WAP to check whether number is -
     20 = 4 x 5
     42 = 6 x 7
 
-12. Triangular Number
-    -> A number that can form an equilateral triangle; given by the formula n(n + 1)/2, where n is a positive integer.
-    e.g.
-    1 = 1(1 + 1)/2 = 1
-    3 = 1(1 + 1)/2 + 2 = 3
-    6 = 2(2 + 1)/2 + 3 = 6
-    10 = 3(3 + 1)/2 + 4 = 10
 
-
-13. Fibonacci Number
+12. Fibonacci Number
     -> A number in the Fibonacci sequence where each number is the sum of the two preceding ones, starting from 0 and 1.
     e.g.
     0, 1, 1, 2, 3, 5,
